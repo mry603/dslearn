@@ -108,7 +108,7 @@
 * Developed a data analysis pipeline using NumPy and Matplotlib to perform multi-dimensional statistical profiling and trend visualization on housing data, implementing customized feature selection and binary serialization for data persistence
 * Concepts: Exploratory Data Analysis (EDA), Feature Selection, Data Persistence, Boolean Indexing, Descriptive Statistics
 * Detailed point:
-     *External Data Integration: Implemented robust data loading protocols to ingest large-scale CSV datasets into optimized NumPy arrays for high-performance computing.
+     * External Data Integration: Implemented robust data loading protocols to ingest large-scale CSV datasets into optimized NumPy arrays for high-performance computing.
      * Univariate & Bivariate Visualization: Leveraged Matplotlib to construct frequency histograms for architectural features (room counts) and price distributions, while using scatter plots to identify positive correlations between property size and market value.
      * Segmented Socio-Economic Analysis: Conducted comparative statistical audits between housing tiers (e.g., "cheap" vs. "average" priced homes), discovering significant disparities in town-wide crime rates based on property valuation.
      * Categorical Data Processing: Analyzed dummy variables to determine the geographical distribution of housing (e.g., river proximity), calculating population percentages via non-zero indexing.
